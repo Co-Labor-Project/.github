@@ -2,10 +2,8 @@
 
 # 👷 Co-Labor : 외국인 근로자 서포트 플랫폼
 
-????????????????????????????????????????????
-
--   외국인 근로자들이 한국에서 안정적으로 정착하고 적응할 수 있도록 돕는 플랫폼
--   일자리, 정보 부족, 법률 등 외국인 근로자들이 겪을 수 있는 다양한 문제 해결에 도움을 줌
+- 외국인 근로자들이 한국에서 안정적으로 정착하고 적응할 수 있도록 돕는 플랫폼
+- 일자리, 정보 부족, 법률 등 외국인 근로자들이 겪을 수 있는 다양한 문제 해결에 도움을 줌
 
 ## 💡 Background
 
@@ -37,7 +35,7 @@
 
 ### ◻️ 법률 챗봇
 
-&nbsp;외국인 근로자들이 마주하는 다양한 법률적인 문제에 대해 도움을 받을 수 있는 법률 상담 챗봇. 챗봇은 사용자의 질문에 대해 적절한 상담과 관련 판례 요약 및 참조 조문을 제공.
+&nbsp;외국인 근로자들이 마주하는 다양한 법률적인 문제에 대해 도움을 받을 수 있는 법률 상담 챗봇. 챗봇은 다양한 법률 질문에 대하여 적절한 답변과 함께 관련 판례를 제공. ??
 
 ### ◻️ 다국어 번역
 
@@ -62,46 +60,42 @@
 
 ### 📍 메인 페이지
 
-<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Main%20Page.gif" width="100%" height="100%" />
+<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Home.gif" width="100%" height="100%" />
 
 ### 📍 로그인 / 회원가입 페이지
 
 <img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Login.gif" width="100%" height="100%" />
 
-### 📍 기업 등록 페이지
-
-<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Company%20Registration.gif" width="100%" height="100%" />
-
--   등록한 기업은 추후 관리자에 의해 승인
-
 ### 📍 기업 정보 페이지
 
-<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Company%20Details.gif" width="100%" height="100%" />
+<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/EnterpriseInfo.gif" width="100%" height="100%" />
 
 ### 📍 채용 공고 페이지
 
-<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Recruitment%20Notice.gif" width="100%" height="100%" />
+<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/JobNotice.gif" width="100%" height="100%" />
 
 ### 📍 법률 챗봇 페이지
 
-<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Legal%20Chatbot.gif" width="100%" height="100%" />
+<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/LegalChat.gif" width="100%" height="100%" />
 
 ### 📍 지원 센터 페이지
 
-<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Foreign%20Worker%20Support%20Center.gif" width="100%" height="100%" />
+<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Map.giff" width="100%" height="100%" />
 
-### 📍 검색 페이지
+### 📍 검색
 
 <img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Search.gif" width="100%" height="100%" />
 
 ### 📍 다국어 번역
 
+<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Translate.gif" width="100%" height="100%" />
+
 ## 🔗 Repository
 
--   **Front-end** &nbsp;&nbsp;&nbsp;[FE-Repository](https://github.com/Co-Labor-Project/Co-Labor-FE)
--   **Back-end** &nbsp;&nbsp;&nbsp;&nbsp;[BE-Repository](https://github.com/Co-Labor-Project/Co-Labor-BE)
+- **Front-end** &nbsp;&nbsp;&nbsp;[FE-Repository](https://github.com/Co-Labor-Project/Co-Labor-FE)
+- **Back-end** &nbsp;&nbsp;&nbsp;&nbsp;[BE-Repository](https://github.com/Co-Labor-Project/Co-Labor-BE)
 
-## 🧑‍💻 Member
+## 🧑‍💻 팀원 구성
 
 <div align="center">
 
