@@ -45,7 +45,7 @@
 
 <img src="https://github.com/Co-Labor-Project/.github/blob/main/profile/System_Architecture.png" width="100%" height="100%" />
 
-### 배포 관련 내용?
+
 
 ## 📚 기술 스택
 
