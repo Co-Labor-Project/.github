@@ -80,7 +80,7 @@
 
 ### 📍 지원 센터 페이지
 
-<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Map.giff" width="100%" height="100%" />
+<img src="https://github.com/Co-Labor-Project/.github/blob/main/gif/Map.gif" width="100%" height="100%" />
 
 ### 📍 검색
 
