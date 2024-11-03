@@ -28,52 +28,7 @@
 
 <img src="https://github.com/Co-Labor-Project/.github/blob/main/profile/System_Architecture.png" width="80%" height="80%" />
 
-## 🗃️ ERD
 
-<img src="https://github.com/Co-Labor-Project/demo-repository/blob/main/img/ERD.png" width="100%" height="100%" />
-
-### `labor_user` - 일반 회원
-
-- 외국인 근로자(사용자) 정보
-
-### `enterprise_user` - 기업 회원
-
-- 채용 공고를 게시할 수 있는 기업 사용자 정보
-
-### `enterprise` - 기업
-
-- 기업 상세 정보
-
-### `enterprise_queue` - 기업 대기열
-
-- 등록 승인을 기다리는 기업 정보
-
-### `job` - 채용 공고
-
-- 기업 회원이 게시하는 채용 공고
-
-### `review` - 리뷰
-
-- 사용자가 기업에 대해 남긴 리뷰
-
-### `hospital` - 병원
-
-- 병원 상세 정보
-
-### `support_center` - 외국인 근로자 지원 센터
-
-- 외국인 근로자 지원 센터 상세 정보
-
-### `chatting` - 채팅
-
-- 사용자와 법률 챗봇간의 채팅 메시지
-
-### Foreign Key(외래 키) 제약 조건
-
-- `job` : `enterprise_user_id` 및 `enterprise_id`는 `enterprise_user` 테이블 참조
-- `review` : `labor_user_id`는 `labor_user` 테이블 참조, `enterprise_id`는 `enterprise` 테이블 참조
-- `enterprise_user` : `enterprise_id`는 `enterprise` 테이블 참조
-- `chatting` : `labor_user_id`는 `labor_user` 테이블 참조
 
 ## 📚 기술 스택
 
