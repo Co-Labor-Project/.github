@@ -1,5 +1,7 @@
 <img src="https://github.com/Co-Labor-Project/.github/blob/main/profile/CoLabor.png" width="100%" height="100%" />
 
+[English Version](https://github.com/Co-Labor-Project/.github/blob/main/profile/README-EN.md)
+
 # 👷 Co-Labor : 외국인 근로자 서포트 플랫폼
 
 - 외국인 근로자들이 한국에서 안정적으로 정착하고 적응할 수 있도록 돕는 플랫폼
